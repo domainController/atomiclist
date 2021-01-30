@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pk",
+  "license": "ISC"
+}
